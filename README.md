@@ -1,2 +1,2 @@
 # [TRYBE](https://www.betrybe.com/)
-This repository manage all projetcs and exercises that I've done at [TRYBE](https://www.betrybe.com/) while I developing [myself](https://www.linkedin.com/in/gilsondebritonogueira/) as a fullstack web developer - [TRYBE | [Class XP/A]](https://www.betrybe.com/):rocket:!()
+This repository manage all projetcs and exercises that I've done at [TRYBE](https://www.betrybe.com/) while I developing [myself](https://www.linkedin.com/in/gilsondebritonogueira/) as a fullstack web developer - [TRYBE | [Class XP/A]](https://www.betrybe.com/):rocket:![download](https://user-images.githubusercontent.com/7903924/138347214-b20c0925-a23f-491c-aa3f-42bab978b1de.png)
