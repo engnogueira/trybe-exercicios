@@ -117,6 +117,8 @@ Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar su
 
 
 
-#Referências e Fonte de inspiração:
+#Referências e Fontes de inspiração:
+
 1 - [Ana Carolina](https://github.com/gomesanac)
+
 2 - [Paulo Simões](https://github.com/paulohbsimoes)
