@@ -1,10 +1,12 @@
-# _[TRYBE]_(https://www.betrybe.com/)
-This repository manage all projetcs and exercises that I've been doing at [TRYBE](https://www.betrybe.com/) while developing [myself](https://www.linkedin.com/in/gilsondebritonogueira/) as a fullstack web developer - [TRYBE | [Class XP/A]](https://www.betrybe.com/)  :rocket:  ![download](https://user-images.githubusercontent.com/7903924/138347214-b20c0925-a23f-491c-aa3f-42bab978b1de.png)
+# [TRYBE](https://www.betrybe.com/)
+This repository manage all projetcs and exercises that I've been doing at [TRYBE](https://www.betrybe.com/) while developing [myself](https://www.linkedin.com/in/gilsondebritonogueira/) as a fullstack web developer - [TRYBE | [Class XP/A]](https://www.betrybe.com/)  :rocket:  ![download](https://user-images.githubusercontent.com/7903924/138347214-b20c0925-a23f-491c-aa3f-42bab978b1de.png) - _Working in Progress- WIP_
 
 ## _Who is Trybe_
 A Trybe é uma escola de desenvolvimento web que te ensina a programar, a aprender e a trabalhar.
+
 "A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho.
 O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."(1)
+
 
 Seus objetivos são:
 
@@ -15,7 +17,7 @@ Para pessoas dedicadas e estudiosas que buscam uma carreira em desenvolvimento w
 
 
 
-# _Fundamentos do Desenvolvimento Web_
+# _Fundamentos do Desenvolvimento Web_ :hourglass_flowing_sand:
 Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar sua carreira no mundo do desenvolvimento Web, virando uma pessoa preparada para os módulos de front-end e back-end. Vamos te guiar, etapa a etapa, por toda essa jornada!
 ##### _Bloco 01: Unix & Bash_
 
