@@ -1,16 +1,16 @@
 # [TRYBE](https://www.betrybe.com/)
-This repository manage all projetcs and exercises that I've been doing at [TRYBE](https://www.betrybe.com/) while developing [myself](https://www.linkedin.com/in/gilsondebritonogueira/) as a fullstack web developer - [TRYBE | [Class XP/A]](https://www.betrybe.com/)  :rocket:  ![download](https://user-images.githubusercontent.com/7903924/138347214-b20c0925-a23f-491c-aa3f-42bab978b1de.png) - _Working in Progress- WIP_
+>_This repository manage all projetcs and exercises that I've been doing at [TRYBE](https://www.betrybe.com/) while developing [myself](https://www.linkedin.com/in/gilsondebritonogueira/) as a fullstack web developer_ - [TRYBE | [Class XP/A]](https://www.betrybe.com/)  :rocket:  ![download](https://user-images.githubusercontent.com/7903924/138347214-b20c0925-a23f-491c-aa3f-42bab978b1de.png) - _Working in Progress- WIP_
 
 ## _Who is Trybe_
-A Trybe é uma escola de desenvolvimento web que te ensina a programar, a aprender e a trabalhar.
+>A Trybe é uma escola de desenvolvimento web que te ensina a programar, a aprender e a trabalhar.
 
-"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho.
+>"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho.
 O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."(1)
 
 
-Seus objetivos são:
+**Seus objetivos são:**
 
-Formar pessoas nas profissões que são e serão demandadas pelo mercado de trabalho, respeitando ao máximo o tempo, o dinheiro e os sonhos das pessoas estudantes ao assumir o compromisso efetivo com o sucesso de cada uma. Assim, trabalhamos ativamente desde o início da formação para preparar e conectar estudantes com o mercado de trabalho.
+>Formar pessoas nas profissões que são e serão demandadas pelo mercado de trabalho, respeitando ao máximo o tempo, o dinheiro e os sonhos das pessoas estudantes ao assumir o compromisso efetivo com o sucesso de cada uma. Assim, trabalhamos ativamente desde o início da formação para preparar e conectar estudantes com o mercado de trabalho.
 Ajudar também as empresas que precisam de profissionais de qualidade para crescer, escalar seus produtos e serviços e executar suas teses de transformação digital. Hoje essas empresas não conseguem atender suas necessidades de recrutamento devido ao gargalo estrutural de mão de obra qualificada no setor.
 Com isso, ajudar o Brasil a ser um país mais produtivo e com mais oportunidades, que gere mais trabalho e renda para a população e que tenha condições de disputar posições de destaque no cenário internacional, visto que cada vez mais o digital ganha um papel relevante no desempenho econômico e social no mundo.
 Para pessoas dedicadas e estudiosas que buscam uma carreira em desenvolvimento web e estão dispostas a serem protagonistas de suas trajetórias, a Trybe é uma escola que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes.
@@ -117,8 +117,8 @@ Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar su
 
 
 
-#Referências e Fontes de inspiração:
+**Referências e Fontes de inspiração:**
 
-1 - [Ana Carolina](https://github.com/gomesanac)
-
-2 - [Paulo Simões](https://github.com/paulohbsimoes)
+>1 - [Ana Carolina](https://github.com/gomesanac)
+>
+>2 - [Paulo Simões](https://github.com/paulohbsimoes)
