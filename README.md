@@ -4,7 +4,7 @@
 ## _Who is Trybe_
 >A Trybe é uma escola de desenvolvimento web que te ensina a programar, a aprender e a trabalhar.
 
->"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho.
+>"A [_Trybe_](https://www.betrybe.com/) é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho.
 O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."(1)
 
 
@@ -30,12 +30,12 @@ Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar su
 
 ##### _Bloco 02: Git, GitHub e Internet_
 
-- [ ] 02.01: Instalação e configuração
-- [ ] 02.02: Criar conta no GitHub
-- [ ] 02.03: Adicionando uma chave SSH na sua conta do GitHub
-- [ ] 02.04: O seu repositório no GitHub
-- [ ] 02.05: A prática
-- [ ] 02.06: Recapitulando
+- [x] 02.01: Instalação e configuração
+- [x] 02.02: Criar conta no GitHub
+- [x] 02.03: Adicionando uma chave SSH na sua conta do GitHub
+- [x] 02.04: O seu repositório no GitHub
+- [x] 02.05: A prática
+- [x] 02.06: Recapitulando
 
 ##### _Bloco 03: Introdução à HTML e CSS_
 
