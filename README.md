@@ -1,4 +1,5 @@
-# [TRYBE](https://www.betrybe.com/)
+# [TRYBE](https://www.betrybe.com/)  ![imageTrybe25](https://user-images.githubusercontent.com/7903924/138901059-bdc7263a-a924-43e1-88a5-1d4fe5d7a50f.png)  
+
 >_This repository manage all projetcs and exercises that I've been doing at [TRYBE](https://www.betrybe.com/) while developing [myself](https://www.linkedin.com/in/gilsondebritonogueira/) as a fullstack web developer_ - [TRYBE | [Class XP/A]](https://www.betrybe.com/)  :rocket:  ![download](https://user-images.githubusercontent.com/7903924/138347214-b20c0925-a23f-491c-aa3f-42bab978b1de.png) - _Working in Progress- WIP_
 
 ## _Who is Trybe_
