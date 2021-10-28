@@ -40,9 +40,9 @@ Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar su
 
 ##### _Bloco 03: Introdução à HTML e CSS_
 
-- [ ] 03.01: Construindo seu primeiro Portfólio Web!
-- [ ] 03.02: Requisitos
-- [ ] 03.03: Colocando seu Portfólio Web para o mundo ver!
+- [x] 03.01: Construindo seu primeiro Portfólio Web!
+- [x] 03.02: Requisitos
+- [x] 03.03: Colocando seu Portfólio Web para o mundo ver!
 - [ ] 03.04: Estilizando seu Portfólio Web!
 - [ ] 03.05: Requisitos
 - [ ] 03.06: Layout e Box Model no seu Portfólio Web
