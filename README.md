@@ -31,12 +31,12 @@ Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar su
 
 ##### _Bloco 02: Git, GitHub e Internet_
 
-- [x] 02.01: Instalação e configuração
-- [x] 02.02: Criar conta no GitHub
-- [x] 02.03: Adicionando uma chave SSH na sua conta do GitHub
-- [x] 02.04: O seu repositório no GitHub
-- [x] 02.05: A prática
-- [x] 02.06: Recapitulando
+- [ ] 02.01: Instalação e configuração
+- [ ] 02.02: Criar conta no GitHub
+- [ ] 02.03: Adicionando uma chave SSH na sua conta do GitHub
+- [ ] 02.04: O seu repositório no GitHub
+- [ ] 02.05: A prática
+- [ ] 02.06: Recapitulando
 
 ##### _Bloco 03: Introdução à HTML e CSS_
 
