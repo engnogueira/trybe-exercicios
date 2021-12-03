@@ -3,17 +3,16 @@ Parte I
 
 Agora você vai fazer alguns exercícios de fixação.
 
-1 - Faça as modificações necessárias na função para que o seu comportamento respeite o escopo no    qual cada variável foi declarada.
+1 - Faça as modificações necessárias na função para que o seu comportamento respeite o escopo no    qual cada variável foi declarada. - Ok
     
 Modifique a estrutura da função para que ela seja uma arrow function .
     
-Modifique as concatenações para template literals .
+Modifique as concatenações para template literals . - Ok
     
 Copie o código abaixo.
-
  */
 
-function testingScope(escopo) {
+const testingScope = (escopo) => {
   if (escopo === true) {
     let ifScope = "Não devo ser utilizada fora do meu escopo (if)";
     ifScope = ifScope + " ótimo, fui utilizada no escopo !";
@@ -36,6 +35,6 @@ testingScope(false);
       console.log(elseScope);
     }
     console.log(ifScope + ' o que estou fazendo aqui ? :O'); // Se necessário esta linha pode ser removida.
-  } */
+  }
 
-//   testingScope(true);
+testingScope(true); */
