@@ -1,22 +1,31 @@
 /* 
-Parte I
+Parte II
+Abaixo, você verá algumas especificações de algoritmos para desenvolver. É fundamental que você utilize o que aprendeu sobre let , const , arrow functions , template literals e ternary operator .
 
-Agora você vai fazer alguns exercícios de fixação.
+1- Crie uma função que receba um número e retorne seu fatorial.
 
-2 - Copie o código abaixo e faça uma função que retorne o array oddsAndEvens em ordem crescente.
+- Na matemática, o fatorial de um número não negativo N , com a notação N! , é o produto de todos os inteiros menores ou iguais a N . Exemplo: 4! = 4 * 3 * 2 * 1 = 24.
 
-Utilize template literals para que a chamada console.log(<seu código>oddsAndEvens<seu código>); retorne "Os números 2,3,4,7,10,13 se encontram ordenados de forma crescente!".
-
-Bônus (opcional): tente fazer o mesmo exercício utilizando o método array.sort() . Spoiler: É possível realizar uma função que ordene qualquer array de números.
-
-Copie o código abaixo.
+- Bônus (opcional): tente fazer o mesmo exercício de forma recursiva . Spoiler: É possível resolver com uma linha usando ternary operator ..
  */
 
-oddsAndEvens = (array) => {
-  const vetorOrdenado = array.sort((a, b) => a - b);
-  return vetorOrdenado;
-};
 
-console.log(
-  `Os números ${oddsAndEvens([13, 3, 4, 10, 7, 2])} se encontram ordenados de forma crescente`
-); // será necessário alterar essa linha 😉
+function fatorial(num) {
+  //   console.log(num);
+  return num <= 1 ? 1 : num * fatorial(num - 1);
+}
+
+// fatorial = num => num <= 1 ? 1 : num * fatorial(num - 1);
+
+function tempo(fatorial, num, iteracao) {
+  let tempoTotal = 0;
+  let tempoInicial = new Date().getTime();
+  for (let i = 0; i <= iteracao; i += 1) {
+    fatorial(num);
+  }
+  let tempoFinal = new Date().getTime();
+  tempoTotal = tempoFinal - tempoInicial;
+  let tempoSegundos = Math.round(tempoTotal / 1000);
+  return `Tempo total: ${tempoSegundos} segundos`;
+}
+console.log(tempo(fatorial, 25, 100000000));
