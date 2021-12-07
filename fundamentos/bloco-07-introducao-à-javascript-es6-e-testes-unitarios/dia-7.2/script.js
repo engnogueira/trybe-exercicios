@@ -1,11 +1,14 @@
-const customer = {
-    firstName: 'Roberto',
-    age: 22,
-    job: 'Teacher',
+const student2 = {
+    Html: 'Bom',
+    Css: 'Ótimo',
+    JavaScript: 'Ruim',
+    SoftSkills: 'Ótimo',
+    Git: 'Bom', // chave adicionada
   };
 
-  const objeto = (customer, nacionalidadeKey, nacionalidade) => {
-      customer.nacionalidadeKey = nacionalidade;
-      return customer };
-
-  console.log(objeto(customer, 'nacionalidade', 'Brasileiro'));
+  const objeto = student2 => {
+      for (let key in student2) {
+        console.log(`Nome da habilidade :${key},  Valor da habilidade: ${student2[key]}`);
+      }
+    };
+ objeto(student2);
