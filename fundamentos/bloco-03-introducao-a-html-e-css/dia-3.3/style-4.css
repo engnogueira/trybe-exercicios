@@ -1,0 +1,58 @@
+ol {
+    background-color: yellow;
+}
+
+.impar {
+    text-transform: uppercase;    
+}
+
+.par {
+    color: green;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: red;
+}
+
+h1 em {
+    font-size: 40px;
+    border: 1px solid black;    
+}
+
+li em {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+ul.linguagens li:nth-child(-n + 3) {
+    color: blue;
+}
+
+.pink-bg {
+    background-color: pink;
+}
+
+.stackoverflow:hover {
+    background-color: #ff6600;
+    text-transform: bold;
+}
+
+.w3schools:hover {
+    background-color: green;
+    text-transform: bold;
+}
+
+.mdn:hover {
+    background-color: black;
+    text-transform: bold;
+}
+
+.devdocs:hover {
+    background-color: yellow;
+    text-transform: bold;
+}
+
+.trybe:hover {
+    background-color: green;
+    text-transform: bold;
+}
