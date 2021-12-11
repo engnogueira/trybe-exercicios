@@ -1,36 +1,8 @@
-// Ao chamar a função doingThings:
-/* const doingThings = (atividade) => {
-  console.log(atividade());
-};
+/*
+2 - Desenvolva uma HOF que retorna o resultado de um sorteio. Esta HOF irá gerar um número aleatório entre 1 e 5 recebendo como parâmetros o número apostado e uma função que checa se o número apostado é igual ao número sorteado. O retorno da sua HOF deve ser uma string (Ex: "Tente novamente" ou "Parabéns você ganhou").*/ 
 
-const acordar = () => "Acordando!!";
-const lanchar = () => "Bora tomar café!!";
-const dormir = () => "Partiu dormir!!";
+const numeroSorteado = () =>(Math.floor(Math.random() * 5) + 1);
 
-doingThings(acordar);
-doingThings(lanchar);
-doingThings(dormir); */
+const checa = (numeroApostado, numeroSorteado) => numeroApostado === numeroSorteado ? "Parabéns você ganhou" : "Tente novamente";
 
-// Ela deve retornar o valor do respectivo parâmetro, neste caso:
-// Acordando!!
-
-/* 1 - Crie uma função que retorne um objeto no formato { nomeCompleto, email } representando uma nova pessoa contratada. Passe sua função como parâmetro da HOF newEmployees para criar cada pessoa contratada em seu respectivo id . A sua função deve receber como parâmetro o nome completo da pessoa funcionária e a partir dele gerar automaticamente um email no formato nome_da_pessoa@trybe.com . */
-
-const newEmployees = (newEmail) => {
-  // https://pt.stackoverflow.com/questions/399451/capitalizar-texto-em-javascript-ignorando-abrevia%c3%a7%c3%b5es/399457#399457
-  const capitalize = require('capitalize-pt-br');
-  const employees = {
-    id1: capitalize(newEmail('Pedro Guerra').split("@")[0].split("_").join(' ')), // Nome: Pedro Guerra -> Chame sua função passando o nome Pedro Guerra como parâmetro, substituindo as aspas
-    id2: capitalize(newEmail('Luiza Drumond').split("@")[0].split("_").join(' ')), // Nome: Luiza Drumond -> Chame sua função passando o nome Luiza Drumond como parâmetro, substituindo as aspas
-    id3: capitalize(newEmail('Carlos Paiva').split("@")[0].split("_").join(' ')), // Nome: Carla Paiva -> Chame sua função passando o nome Carla Paiva como parâmetro, substituindo as aspas
-  };
-  return employees;
-};
-
-function newEmail(nomeCompleto) {
-  let nome = nomeCompleto.toLowerCase().split(" ").join("_");
-  return `${nome}@trybe.com`
-}
-
-console.log(newEmail('Gilson Nogueira'));
-console.log(newEmployees(newEmail));
+console.log(checa(1, numeroSorteado()));
