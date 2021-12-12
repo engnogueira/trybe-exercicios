@@ -102,24 +102,24 @@ const turnoDragon = (funcaodanoDragon, dragon, warrior, mage) => {
 4 - Adicione ao objeto gameActions uma função que retorne o objeto battleMembers atualizado e faça um console.log para visualizar o resultado final do turno.
  */
 
-// const turnoGeral = (battleMembers, turnoWarrior, turnoMage, turnoDragon) => {
-//   turnoWarrior(danoWarrior, battleMembers.warrior, battleMembers.dragon);
-//   turnoMage(danoMage, manaMage, battleMembers.mage, battleMembers.dragon);
-//   turnoDragon(
-//     danoDragon,
-//     battleMembers.dragon,
-//     battleMembers.warrior,
-//     battleMembers.mage
-//   );
-// };
+const turnoGeral = (battleMembers, turnoWarrior, turnoMage, turnoDragon) => {
+  turnoWarrior(danoWarrior, battleMembers.warrior, battleMembers.dragon);
+  turnoMage(danoMage, manaMage, battleMembers.mage, battleMembers.dragon);
+  turnoDragon(
+    danoDragon,
+    battleMembers.dragon,
+    battleMembers.warrior,
+    battleMembers.mage
+  );
+};
 
-// turnoGeral(battleMembers, turnoWarrior, turnoMage, turnoDragon);
-// turnoGeral(battleMembers, turnoWarrior, turnoMage, turnoDragon);
-// turnoGeral(battleMembers, turnoWarrior, turnoMage, turnoDragon);
+turnoGeral(battleMembers, turnoWarrior, turnoMage, turnoDragon);
+turnoGeral(battleMembers, turnoWarrior, turnoMage, turnoDragon);
+turnoGeral(battleMembers, turnoWarrior, turnoMage, turnoDragon);
 
-// const gameActions = {
-//   // Crie as HOFs neste objeto.
-//   battleMembers,
-// };
+const gameActions = {
+  // Crie as HOFs neste objeto.
+  battleMembers,
+};
 
-// console.log(gameActions);
+console.log(gameActions);
