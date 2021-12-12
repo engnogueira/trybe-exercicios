@@ -28,11 +28,41 @@ const battleMembers = { mage, warrior, dragon };
 
 const danoDragao = (dragon) =>
   (dragon.damage = Math.floor(Math.random() * (dragon.strength - 15) + 16));
-console.log(danoDragao(dragon));
+// console.log(danoDragao(dragon));
 
 const danoWarrior = (warrior) =>
   (warrior.damage = Math.floor(
     Math.random() * (warrior.strength * warrior.weaponDmg - warrior.strength) +
       warrior.strength
   ));
-console.log(danoWarrior(warrior));
+// console.log(danoWarrior(warrior));
+
+const danoMage = (mage) =>
+  (mage.damage = Math.floor(
+    Math.random() * (mage.intelligence * 2 - mage.intelligence) +
+      mage.intelligence
+  ));
+
+const manaMage = (mage) => {
+  mage.mana += -15;
+  if (mage.mana < 15) {
+    mage.damage = "Não possui mana suficiente";
+    mage.mana -= 0;
+    return mage.damage;
+  }
+  return mage.mana;
+};
+
+const turnoMago = (danoMage, manaMage) => ({damage: danoMage(mage), mana: manaMage(mage)});
+console.log(danoMage(mage));
+console.log(manaMage(mage));
+
+console.log(turnoMago(danoMage, manaMage));
+console.log(turnoMago(danoMage, manaMage));
+console.log(turnoMago(danoMage, manaMage));
+console.log(turnoMago(danoMage, manaMage));
+console.log(turnoMago(danoMage, manaMage));
+console.log(turnoMago(danoMage, manaMage));
+console.log(turnoMago(danoMage, manaMage));
+
+
