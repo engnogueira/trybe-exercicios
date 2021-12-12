@@ -91,12 +91,12 @@ const turnoMage = (funcaoDanoMage, funcaoManaMage, mage, dragon) => {
 3 - Crie a terceira HOF que compõe o objeto gameActions . Ela será a função que simula o turno do monstro dragon . Esta HOF receberá como parâmetro a função que calcula o dano deferido pelo monstro dragon e atualizará os healthPoints dos personagens mage e warrior . Além disto ela também deve atualizar o valor da chave damage do monstro.
  */
 
-// const turnoDragon = (funcaodanoDragon, dragon, warrior, mage) => {
-//   dragon.damage = danoDragon(dragon);
-//   warrior.healthPoints -= dragon.damage;
-//   dragon.damage = danoDragon(dragon);
-//   mage.healthPoints -= dragon.damage;
-// };
+const turnoDragon = (funcaodanoDragon, dragon, warrior, mage) => {
+  dragon.damage = danoDragon(dragon);
+  warrior.healthPoints -= dragon.damage;
+  dragon.damage = danoDragon(dragon);
+  mage.healthPoints -= dragon.damage;
+};
 
 /* 
 4 - Adicione ao objeto gameActions uma função que retorne o objeto battleMembers atualizado e faça um console.log para visualizar o resultado final do turno.
