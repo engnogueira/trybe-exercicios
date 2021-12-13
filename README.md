@@ -22,27 +22,27 @@ Para pessoas dedicadas e estudiosas que buscam uma carreira em desenvolvimento w
 Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar sua carreira no mundo do desenvolvimento Web, virando uma pessoa preparada para os módulos de front-end e back-end. Vamos te guiar, etapa a etapa, por toda essa jornada!
 ##### _Bloco 01: Unix & Bash_
 
-- [x] 01.01: Criação de arquivos e diretórios
-- [x] 01.02: Manipulação & Busca
-- [x] 01.03: Comandos de Input e Output
-- [x] 01.04: Permissões
-- [x] 01.05: Processos & Jobs
-- [x] 01.06: O despertar do terminal
+- [ ] 01.01: Criação de arquivos e diretórios
+- [ ] 01.02: Manipulação & Busca
+- [ ] 01.03: Comandos de Input e Output
+- [ ] 01.04: Permissões
+- [ ] 01.05: Processos & Jobs
+- [ ] 01.06: O despertar do terminal
 
 ##### _Bloco 02: Git, GitHub e Internet_
 
-- [x] 02.01: Instalação e configuração
-- [x] 02.02: Criar conta no GitHub
-- [x] 02.03: Adicionando uma chave SSH na sua conta do GitHub
-- [x] 02.04: O seu repositório no GitHub
-- [x] 02.05: A prática
-- [x] 02.06: Recapitulando
+- [ ] 02.01: Instalação e configuração
+- [ ] 02.02: Criar conta no GitHub
+- [ ] 02.03: Adicionando uma chave SSH na sua conta do GitHub
+- [ ] 02.04: O seu repositório no GitHub
+- [ ] 02.05: A prática
+- [ ] 02.06: Recapitulando
 
 ##### _Bloco 03: Introdução à HTML e CSS_
 
-- [x] 03.01: Construindo seu primeiro Portfólio Web!
-- [x] 03.02: Requisitos
-- [x] 03.03: Colocando seu Portfólio Web para o mundo ver!
+- [ ] 03.01: Construindo seu primeiro Portfólio Web!
+- [ ] 03.02: Requisitos
+- [ ] 03.03: Colocando seu Portfólio Web para o mundo ver!
 - [ ] 03.04: Estilizando seu Portfólio Web!
 - [ ] 03.05: Requisitos
 - [ ] 03.06: Layout e Box Model no seu Portfólio Web
