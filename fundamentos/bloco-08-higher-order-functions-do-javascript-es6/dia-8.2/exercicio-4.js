@@ -65,3 +65,10 @@ const books = [
 4 - Ordene os livros por data de lançamento em ordem decrescente.
  */
 
+function booksOrderedByReleaseYearDesc(book) {
+  Object.values(book).forEach((value) => {
+    book.sort((a, b) => b.releaseYear - a.releaseYear);
+  });
+  return book;
+}
+console.log(booksOrderedByReleaseYearDesc(books));
