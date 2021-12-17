@@ -1,4 +1,7 @@
 function techList(techs, name) {
+  if (techs.length === 0){
+    return "Vazio!";
+  }
   let vetorOrdenado = techs.sort();
   let vetor = [];
   for (let index = 0; index < vetorOrdenado.length; index += 1) {
