@@ -7,4 +7,7 @@ describe("Teste da função myFizzBuzz(num)", () => {
   it('Verificar se a função retorna "fizz" se o número de entrada fore divisível por 3', () => {
     expect(myFizzBuzz(9)).toBe("fizz");
   });
+  it('Verificar se a função retorna "fizz" se o número de entrada fore divisível por 5', () => {
+    expect(myFizzBuzz(20)).toBe("buzz");
+  });
 });
