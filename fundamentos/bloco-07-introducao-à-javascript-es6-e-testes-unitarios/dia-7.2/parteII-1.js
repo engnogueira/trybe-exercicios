@@ -71,6 +71,8 @@ const variaveis = [
   "apartment",
 ];
 
+
+
 const customerInfo = (order) => {
   percorrerObjeto(order);
   return `Olá ${solucao[5][1]}, entrega para: ${solucao[0][1]}, Telefone: ${solucao[1][1]}, ${solucao[2][1]}, ${solucao[3][1]}, ${solucao[4][1]}`;
