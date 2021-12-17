@@ -17,9 +17,10 @@ function encode(palavra) {
       resultado += palavra[i];
     }
   }
-  return {resultado, encode};
+  return resultado;
 }
 
+// console.log(encode('gilson'));
 function decode(vrapala) {
   let resultado = '';
   let digitos = ['1', '2', '3', '4', '5'];
@@ -41,6 +42,5 @@ function decode(vrapala) {
   }
   return resultado;
 }
-  
-module.exports = encode;
-module.exports = decode;
+
+module.exports = {encode, decode};
