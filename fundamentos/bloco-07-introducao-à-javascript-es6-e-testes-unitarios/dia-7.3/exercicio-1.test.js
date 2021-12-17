@@ -12,4 +12,9 @@ describe("Testes do Exercicio 1 do dia-7.3", () => {
       sum(4, "5");
     }).toThrow("");
   });
+  it('Teste se a mensagem de erro é:"parameters must be numbers"', () => {
+    expect(() => {
+      sum();
+    }).toThrowError("parameters must be numbers");
+  });
 });
