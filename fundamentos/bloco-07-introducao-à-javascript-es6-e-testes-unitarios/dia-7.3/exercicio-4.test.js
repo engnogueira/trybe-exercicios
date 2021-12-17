@@ -16,4 +16,10 @@ describe("Testes relativos as funções encode e decode do projeto Playground Fu
   it("Teste se as demais letras/números não são convertidos para cada caso", () => {
     expect(decode('67890')).toBe('67890');
   });
+  it("Teste se a string que é retornada pelas funções tem o mesmo número de caracteres que a string passada de parâmetro", () => {
+    expect(encode('aeiou').length).toBe('12345'.length);
+  });
+  it("Teste se a string que é retornada pelas funções tem o mesmo número de caracteres que a string passada de parâmetro", () => {
+    expect(decode('12345').length).toBe('aeiou'.length);
+  });
 });
