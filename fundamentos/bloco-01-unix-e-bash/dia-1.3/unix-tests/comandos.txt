@@ -1,1 +1,1 @@
-cat countries.txt
+less countries.txt
