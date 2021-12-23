@@ -1,0 +1,4 @@
+Mostre na tela as 5 primeiras skills do arquivo skills.txt
+head -5 skills.txt
+Mostre na tela as 4 últimas skills do arquivo skills.txt 
+tail -4 skills.txt
