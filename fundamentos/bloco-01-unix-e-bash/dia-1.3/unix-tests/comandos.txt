@@ -1,1 +1,1 @@
-grep Brazil countries.txt
+grep -i brazil countries.txt
