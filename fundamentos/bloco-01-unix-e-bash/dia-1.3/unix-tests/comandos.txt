@@ -1,1 +1,1 @@
-wc -l phrases.txt
+touch emptbt empty.pdf
