@@ -1,1 +1,1 @@
-grep -i brazil countries.txt
+grep -iv 'fox' phrases.txt
