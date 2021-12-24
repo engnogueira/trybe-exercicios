@@ -1,1 +1,1 @@
-grep -iv 'fox' phrases.txt
+wc -w phrases.txt
