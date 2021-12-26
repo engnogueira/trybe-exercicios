@@ -1,3 +1,3 @@
-sleep 30 &
-ps
-kill 25992
+sleep 30
+\z
+bg
