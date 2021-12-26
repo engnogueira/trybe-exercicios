@@ -1,1 +1,1 @@
-grep -i 'br' skills2.txt | wc -l
+grep -iv 'br' skills2.txt | wc -l
