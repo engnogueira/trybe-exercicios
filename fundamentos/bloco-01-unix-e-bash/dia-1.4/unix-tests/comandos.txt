@@ -1,1 +1,3 @@
-sort < bunch_of_things.txt >  bunch_of_things_ord.txt
+ls -l
+chmod a+rw bunch_of_things.txt
+ls -l
