@@ -74,12 +74,12 @@ Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar su
 - [ ] 06.06: CSS Responsivo - Mobile First
 - [ ] 06.07: Projeto - Trybewarts :white_check_mark:
 
-##### _Bloco 07: Introdução à JavaScript ES6 e Testes Unitários_ :hourglass_flowing_sand:
+##### _Bloco 07: Introdução à JavaScript ES6 e Testes Unitários_ :white_check_mark:
 
-- [ ] 07.01: JavaScript ES6 - let, const, arrow functions e template literals
-- [ ] 07.02: JavaScript ES6 - Fluxo de exceção e Objetos
-- [ ] 07.03: Primeiros passos em Jest
-- [ ] 07.04: Projeto - JavaScript Testes Unitários :white_check_mark:
+- [x] 07.01: JavaScript ES6 - let, const, arrow functions e template literals
+- [x] 07.02: JavaScript ES6 - Fluxo de exceção e Objetos
+- [x] 07.03: Primeiros passos em Jest
+- [x] 07.04: Projeto - JavaScript Testes Unitários :white_check_mark:
 
 ##### _Bloco 08: Higher Order Functions do JavaScript ES6_ :hourglass_flowing_sand:
 
