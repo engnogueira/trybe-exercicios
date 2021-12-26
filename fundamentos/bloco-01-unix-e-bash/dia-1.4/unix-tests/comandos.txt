@@ -1,1 +1,1 @@
-cat > phrases2.txt
+grep -i 'br' skills2.txt | wc -l
