@@ -1,1 +1,1 @@
-cat >> phrases2.txt
+sort < bunch_of_things.txt >  bunch_of_things_ord.txt
