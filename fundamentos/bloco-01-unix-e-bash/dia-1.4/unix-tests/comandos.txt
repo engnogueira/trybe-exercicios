@@ -1,0 +1,3 @@
+cd unix-tests
+touch skills2.txt
+cat > skills2.txt
