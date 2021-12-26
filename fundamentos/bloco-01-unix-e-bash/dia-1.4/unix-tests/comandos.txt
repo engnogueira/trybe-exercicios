@@ -1,7 +1,1 @@
-sleep 300 &
-sleep 200
-\z
-sleep 100
-\z
-fg
-\z
+bg
