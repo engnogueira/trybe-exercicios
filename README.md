@@ -27,15 +27,15 @@ Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar su
 - [x] 01.03: Unix & Bash - Parte 1
 - [x] 01.04: Unix & Bash - Parte 2
 
-##### _Bloco 02: Git, GitHub e Internet_ :hourglass_flowing_sand:
+##### _Bloco 02: Git, GitHub e Internet_ :white_check_mark:
 
 - [x] 02.01: Git & GitHub
-- [ ] 02.02: Git $ GitHub - Entendendo os comandos
-- [ ] 02.03: Internet - Entendendo como ela funciona
+- [x] 02.02: Git $ GitHub - Entendendo os comandos
+- [x] 02.03: Internet - Entendendo como ela funciona
 
 ##### _Bloco 03: Introdução à HTML e CSS_ :hourglass_flowing_sand:
 
-- [ ] 03.01: Introdução - HTML & CSS
+- [x] 03.01: Introdução - HTML & CSS
 - [ ] 03.02: HTML & CSS - Estruturas de página
 - [ ] 03.03: HTML & CSS - Primeiros passos em CSS
 - [ ] 03.04: HTML & CSS - Seletores e posicionamento
@@ -83,8 +83,8 @@ Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar su
 
 ##### _Bloco 08: Higher Order Functions do JavaScript ES6_ :hourglass_flowing_sand:
 
-- [ ] 08.01: JavaScript ES6 - Introdução a Higher Order Functions
-- [ ] 08.02: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [x] 08.01: JavaScript ES6 - Introdução a Higher Order Functions
+- [x] 08.02: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [ ] 08.03: JavaScript ES6 - Higher Order Functions - map e filter
 - [ ] 08.04: JavaScript ES6 - Higher Order Functions - reduce
 - [ ] 08.05: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
