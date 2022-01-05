@@ -20,98 +20,82 @@ Para pessoas dedicadas e estudiosas que buscam uma carreira em desenvolvimento w
 
 # _Fundamentos do Desenvolvimento Web_ :hourglass_flowing_sand:
 Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar sua carreira no mundo do desenvolvimento Web, virando uma pessoa preparada para os módulos de front-end e back-end. Vamos te guiar, etapa a etapa, por toda essa jornada!
-##### _Bloco 01: Unix & Bash_
+##### _Bloco 01: Unix & Bash_ :white_check_mark:
 
-- [x] 01.01: Criação de arquivos e diretórios
-- [x] 01.02: Manipulação & Busca
-- [x] 01.03: Comandos de Input e Output
-- [x] 01.04: Permissões
-- [x] 01.05: Processos & Jobs
-- [x] 01.06: O despertar do terminal
+- [x] 01.01: Fundamentos do Desenvolvimento Web
+- [x] 01.02: Introdução - Unix & Shell
+- [x] 01.03: Unix & Bash - Parte 1
+- [x] 01.04: Unix & Bash - Parte 2
 
-##### _Bloco 02: Git, GitHub e Internet_
+##### _Bloco 02: Git, GitHub e Internet_ :white_check_mark:
 
-- [x] 02.01: Instalação e configuração
-- [x] 02.02: Criar conta no GitHub
-- [x] 02.03: Adicionando uma chave SSH na sua conta do GitHub
-- [x] 02.04: O seu repositório no GitHub
-- [x] 02.05: A prática
-- [x] 02.06: Recapitulando
+- [x] 02.01: Git & GitHub
+- [x] 02.02: Git $ GitHub - Entendendo os comandos
+- [x] 02.03: Internet - Entendendo como ela funciona
 
-##### _Bloco 03: Introdução à HTML e CSS_
+##### _Bloco 03: Introdução à HTML e CSS_ :hourglass_flowing_sand:
 
-- [x] 03.01: Construindo seu primeiro Portfólio Web!
-- [x] 03.02: Requisitos
-- [x] 03.03: Colocando seu Portfólio Web para o mundo ver!
-- [ ] 03.04: Estilizando seu Portfólio Web!
-- [ ] 03.05: Requisitos
-- [ ] 03.06: Layout e Box Model no seu Portfólio Web
-- [ ] 03.07: Requisitos
-- [ ] 03.08: Atualizando seu Portfólio Web para o mundo ver!
-- [ ] 03.09: Agora a prática
-- [ ] 03.10: Validando com CodeSniffer
-- [ ] 03.11: Validando com Lighthouse
+- [x] 03.01: Introdução - HTML & CSS
+- [ ] 03.02: HTML & CSS - Estruturas de página
+- [ ] 03.03: HTML & CSS - Primeiros passos em CSS
+- [ ] 03.04: HTML & CSS - Seletores e posicionamento
+- [ ] 03.05: HTML Semântico
+- [ ] 03.06: Projeto - Lessons Learned :white_check_mark:
 
-##### _Bloco 04: Introdução à JavaScript e Lógica de Programação_
+##### _Bloco 04: Introdução à JavaScript e Lógica de Programação_ :hourglass_flowing_sand:
 
-- [ ] 04.01: Primeiros Passos
-- [ ] 04.02: Array e loop For
-- [ ] 04.03: Lógica de Programação e Algoritmos
-- [ ] 04.04: Objetos e funções - Parte I
-- [ ] 04.05: Objetos e funções - Parte II
+- [ ] 04.01: Introdução - JavaScript
+- [ ] 04.02: JavaScript - Primeiros passos
+- [ ] 04.03: JavaScript - Array e Loop For
+- [ ] 04.04: JavaScript - Lógica de Programação e Algoritmos
+- [ ] 04.05: JavaScript - Objetos e Funções
+- [ ] 04.06: Projeto - Playground Functions :white_check_mark:
 
-##### _Bloco 05: JavaScript: DOM, Eventos e Web Storage_
+##### _Bloco 05: JavaScript: DOM, Eventos e Web Storage_ :hourglass_flowing_sand:
 
-- [ ] 05.01: Funções de manipulação do DOM
-- [ ] 05.02: Trabalhando com elementos
-- [ ] 05.03: Eventos
-- [ ] 05.04: Calendário Tryber
-- [ ] 05.05: Web Storage
-- [ ] 05.06: Aprofunde seus conhecimentos
-- [ ] 05.07: Projeto - Arte com Pixels
-- [ ] 05.08: Projeto - Lista de tarefas
-- [ ] 05.09: Projeto - Meme Generator
-- [ ] 05.10: Projeto - Adivinhe a Cor
-- [ ] 05.11: Projeto - Carta Misteriosa
+- [ ] 05.01: JavaScript - DOM e Seletores
+- [ ] 05.02: JavaScript - Trabalhando com elementos
+- [ ] 05.03: JavaScript - Eventos
+- [ ] 05.04: JavaScript - Web Storage
+- [ ] 05.05: Fundamentos - JavaScript - Projetos
+- [ ] 05.06: Projeto - Arte com Pixels :white_check_mark:
+- [ ] 05.07: Projeto - Lista de tarefas :white_check_mark:
+- [ ] 05.08: (Bônus) Projeto - Meme Generator
+- [ ] 05.09: (Bônus) Projeto - Adivinhe a Cor
+- [ ] 05.10: (Bônus) Projeto - Carta Misteriosa
 
-##### _Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo_
+##### _Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo_ :hourglass_flowing_sand:
 
-- [ ] 06.01: Criando um formulário de currículo
+- [ ] 06.01: HTML & CSS - Forms
 - [ ] 06.02: Bibliotecas JavaScript e Frameworks CSS
-- [ ] 06.03: CSS Flexbox - parte I
-- [ ] 06.04: CSS Flexbox - parte II
-- [ ] 06.05: CSS Responsivo - Mobile First | Criar uma página para uma tela pequena
-- [ ] 06.06: CSS Responsivo - Mobile First | Criando 3 layouts diferentes utilizando o mobile first
-- [ ] 06.07: CSS Responsivo - Mobile First | Criando layouts para dispositivos móveis e para impressão
-- [ ] 06.08: Projeto - Trybewarts
+- [ ] 06.03: Introdução - CSS Flexbox
+- [ ] 06.04: CSS Flexbox - Parte I
+- [ ] 06.05: CSS Flexbox - Parte II
+- [ ] 06.06: CSS Responsivo - Mobile First
+- [ ] 06.07: Projeto - Trybewarts :white_check_mark:
 
-##### _Bloco 07: Introdução à JavaScript ES6 e Testes Unitários_
+##### _Bloco 07: Introdução à JavaScript ES6 e Testes Unitários_ :white_check_mark:
 
-- [ ] 07.01: JavaScript ES6 - let, const, arrow functions e template literals - Parte I
-- [ ] 07.02: JavaScript ES6 - let, const, arrow functions e template literals - Parte II
-- [ ] 07.03: JavaScript ES6 - Objects - Parte I
-- [ ] 07.04: JavaScript ES6 - Objects - Parte II
-- [ ] 07.05: JavaScript ES6 - Objects - Parte Bônus
-- [ ] 07.06: Primeiros passos em Jest - Praticando a implementação de testes
-- [ ] 07.07: Projeto - JavaScript Testes Unitários
+- [x] 07.01: JavaScript ES6 - let, const, arrow functions e template literals
+- [x] 07.02: JavaScript ES6 - Fluxo de exceção e Objetos
+- [x] 07.03: Primeiros passos em Jest
+- [x] 07.04: Projeto - JavaScript Testes Unitários :white_check_mark:
 
-##### _Bloco 08: Higher Order Functions do JavaScript ES6_
+##### _Bloco 08: Higher Order Functions do JavaScript ES6_ :hourglass_flowing_sand:
 
-- [ ] 08.01: JavaScript ES6 - Introdução a Higher Order Functions
-- [ ] 08.02: JavaScript ES6 - Introdução a Higher Order Functions - Bônus
-- [ ] 08.03: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 08.04: JavaScript ES6 - Higher Order Functions - map e filter
-- [ ] 08.05: JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 08.06: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [ ] 08.07: Projeto - Zoo functions
+- [x] 08.01: JavaScript ES6 - Introdução a Higher Order Functions
+- [x] 08.02: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [ ] 08.03: JavaScript ES6 - Higher Order Functions - map e filter
+- [ ] 08.04: JavaScript ES6 - Higher Order Functions - reduce
+- [ ] 08.05: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+- [ ] 08.07: Projeto - Zoo functions :hourglass_flowing_sand:
 
-##### _Bloco 09: JavaScript e Testes Assíncronos_
+##### _Bloco 09: JavaScript e Testes Assíncronos_ :hourglass_flowing_sand:
 
 - [ ] 09.01: JavaScript Assíncrono e Callbacks
 - [ ] 09.02: JavaScript Assíncrono - Fetch API e async/await
-- [ ] 09.03: JavaScript Assíncrono - Fetch API e async/await - Bônus
-- [ ] 09.04: Jest - Testes Assíncronos
-- [ ] 09.05: Projeto - Carrinho de Compras
+- [ ] 09.03: Jest - Testes Assíncronos
+- [ ] 09.04: Projeto - Carrinho de Compras :hourglass_flowing_sand:
 
 
 

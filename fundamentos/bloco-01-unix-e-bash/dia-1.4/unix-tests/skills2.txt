@@ -1,0 +1,10 @@
+Internet
+Unix
+Bash
+Python
+JavaScript
+HTML5
+CSS
+Shell
+AWS
+Docker
