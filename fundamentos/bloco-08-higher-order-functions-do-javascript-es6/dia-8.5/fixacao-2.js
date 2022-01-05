@@ -23,3 +23,5 @@ const dadosJobInfos = [ profession, squad, squadInitials];
 const dadosTotais = [...dadosUsuarios, ...dadosJobInfos];
 
 console.log(dadosTotais);
+
+module.exports = dadosTotais;
