@@ -85,16 +85,16 @@ Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar su
 
 - [x] 08.01: JavaScript ES6 - Introdução a Higher Order Functions
 - [x] 08.02: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 08.03: JavaScript ES6 - Higher Order Functions - map e filter
-- [ ] 08.04: JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 08.05: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [ ] 08.07: Projeto - Zoo functions :hourglass_flowing_sand:
+- [x] 08.03: JavaScript ES6 - Higher Order Functions - map e filter
+- [x] 08.04: JavaScript ES6 - Higher Order Functions - reduce
+- [x] 08.05: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+- [x] 08.07: Projeto - Zoo functions :white_check_mark:
 
 ##### _Bloco 09: JavaScript e Testes Assíncronos_ :hourglass_flowing_sand:
 
-- [ ] 09.01: JavaScript Assíncrono e Callbacks
-- [ ] 09.02: JavaScript Assíncrono - Fetch API e async/await
-- [ ] 09.03: Jest - Testes Assíncronos
+- [x] 09.01: JavaScript Assíncrono e Callbacks
+- [x] 09.02: JavaScript Assíncrono - Fetch API e async/await
+- [x] 09.03: Jest - Testes Assíncronos
 - [ ] 09.04: Projeto - Carrinho de Compras :hourglass_flowing_sand:
 
 
