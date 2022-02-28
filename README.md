@@ -18,7 +18,7 @@ Para pessoas dedicadas e estudiosas que buscam uma carreira em desenvolvimento w
 
 
 
-# _Fundamentos do Desenvolvimento Web_ :hourglass_flowing_sand:
+# _Fundamentos do Desenvolvimento Web_ :white_check_mark:
 Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar sua carreira no mundo do desenvolvimento Web, virando uma pessoa preparada para os módulos de front-end e back-end. Vamos te guiar, etapa a etapa, por toda essa jornada!
 ##### _Bloco 01: Unix & Bash_ :white_check_mark:
 
@@ -40,7 +40,7 @@ Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar su
 - [ ] 03.03: HTML & CSS - Primeiros passos em CSS
 - [ ] 03.04: HTML & CSS - Seletores e posicionamento
 - [ ] 03.05: HTML Semântico
-- [ ] 03.06: Projeto - Lessons Learned :white_check_mark:
+- [x] 03.06: Projeto - Lessons Learned :white_check_mark:
 
 ##### _Bloco 04: Introdução à JavaScript e Lógica de Programação_ :hourglass_flowing_sand:
 
@@ -49,7 +49,7 @@ Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar su
 - [ ] 04.03: JavaScript - Array e Loop For
 - [ ] 04.04: JavaScript - Lógica de Programação e Algoritmos
 - [ ] 04.05: JavaScript - Objetos e Funções
-- [ ] 04.06: Projeto - Playground Functions :white_check_mark:
+- [x] 04.06: Projeto - Playground Functions :white_check_mark:
 
 ##### _Bloco 05: JavaScript: DOM, Eventos e Web Storage_ :hourglass_flowing_sand:
 
@@ -58,8 +58,8 @@ Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar su
 - [ ] 05.03: JavaScript - Eventos
 - [ ] 05.04: JavaScript - Web Storage
 - [ ] 05.05: Fundamentos - JavaScript - Projetos
-- [ ] 05.06: Projeto - Arte com Pixels :white_check_mark:
-- [ ] 05.07: Projeto - Lista de tarefas :white_check_mark:
+- [x] 05.06: Projeto - Arte com Pixels :white_check_mark:
+- [x] 05.07: Projeto - Lista de tarefas :white_check_mark:
 - [ ] 05.08: (Bônus) Projeto - Meme Generator
 - [ ] 05.09: (Bônus) Projeto - Adivinhe a Cor
 - [ ] 05.10: (Bônus) Projeto - Carta Misteriosa
@@ -72,7 +72,7 @@ Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar su
 - [ ] 06.04: CSS Flexbox - Parte I
 - [ ] 06.05: CSS Flexbox - Parte II
 - [ ] 06.06: CSS Responsivo - Mobile First
-- [ ] 06.07: Projeto - Trybewarts :white_check_mark:
+- [x] 06.07: Projeto - Trybewarts :white_check_mark:
 
 ##### _Bloco 07: Introdução à JavaScript ES6 e Testes Unitários_ :white_check_mark:
 
@@ -81,7 +81,7 @@ Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar su
 - [x] 07.03: Primeiros passos em Jest
 - [x] 07.04: Projeto - JavaScript Testes Unitários :white_check_mark:
 
-##### _Bloco 08: Higher Order Functions do JavaScript ES6_ :hourglass_flowing_sand:
+##### _Bloco 08: Higher Order Functions do JavaScript ES6_ :white_check_mark:
 
 - [x] 08.01: JavaScript ES6 - Introdução a Higher Order Functions
 - [x] 08.02: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
@@ -90,7 +90,7 @@ Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar su
 - [x] 08.05: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [x] 08.07: Projeto - Zoo functions :white_check_mark:
 
-##### _Bloco 09: JavaScript e Testes Assíncronos_ :hourglass_flowing_sand:
+##### _Bloco 09: JavaScript e Testes Assíncronos_ :white_check_mark:
 
 - [x] 09.01: JavaScript Assíncrono e Callbacks
 - [x] 09.02: JavaScript Assíncrono - Fetch API e async/await
