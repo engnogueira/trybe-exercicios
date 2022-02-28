@@ -95,7 +95,7 @@ Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar su
 - [x] 09.01: JavaScript Assíncrono e Callbacks
 - [x] 09.02: JavaScript Assíncrono - Fetch API e async/await
 - [x] 09.03: Jest - Testes Assíncronos
-- [ ] 09.04: Projeto - Carrinho de Compras :hourglass_flowing_sand:
+- [x] 09.04: Projeto - Carrinho de Compras :white_check_mark:
 
 
 
