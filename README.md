@@ -97,6 +97,61 @@ Nosso primeiro módulo te ensinará tudo que você precisa saber para iniciar su
 - [x] 09.03: Jest - Testes Assíncronos
 - [x] 09.04: Projeto - Carrinho de Compras :white_check_mark:
 
+# _Desenvolvimento Front-end_ :hourglass_flowing_sand:
+Neste módulo, você vai aprender as técnicas e ferramentas mais atuais para desenvolver um código de front-end que seja rápido, bonito e testável.
+##### _Bloco 10: Introdução à React_ :hourglass_flowing_sand:
+
+- [ ] 10.01: Introdução - React
+- [ ] 10.02: Componentes React
+- [x] 10.03: Projeto - Sistema Solar :white_check_mark:
+
+##### _Bloco 11: Componentes com Estado, Eventos e Formulários com React :hourglass_flowing_sand:
+
+- [ ] 11.01: Componentes com estado e eventos
+- [ ] 11.02: Formulários no React
+- [x] 11.03: Projeto - Tryunfo :white_check_mark:
+
+##### _Bloco 12: Ciclo de Vida de Componentes e React Router :hourglass_flowing_sand:
+
+- [ ] 12.01: Ciclo de vida de componentes
+- [ ] 12.02: React Router
+- [x] 12.03: Projeto - TrybeTunes :white_check_mark:
+
+##### _Bloco 13: Metodologias Ágeis :hourglass_flowing_sand:
+
+- [ ] 13.01: Metodologias Ágeis
+- [x] 13.02: Projeto - Frontend Online Store :white_check_mark:
+
+##### _Bloco 14: Testes automatizados com React Testing Library :hourglass_flowing_sand:
+
+- [ ] 14.01: RTL - Primeiros passos
+- [ ] 14.02: RTL - Mocks e Inputs
+- [ ] 14.03: RTL - Testando React Router
+- [x] 14.04: Projeto - Testes em React :white_check_mark:
+
+##### _Bloco 15: Gerenciamento de estado com Redux :hourglass_flowing_sand:
+
+- [ ] 15.01: Introdução ao Redux - O estado global da aplicação
+- [ ] 15.02: Usando o Redux no React
+- [ ] 15.03: Usando o Redux no React - Prática
+- [ ] 15.04: Usando o Redux no React - Actions Assíncronas
+- [ ] 15.05: Testes em React-Redux
+- [ ] 15.07: Projeto - Trybe Wallet :hourglass_flowing_sand:
+
+##### _Bloco 16: Projeto Jogo de Trivia :hourglass_flowing_sand:
+
+- [ ] 16.01: Projeto - Jogo de Trivia :hourglass_flowing_sand:
+
+##### _Bloco 17: Context API e React Hooks :hourglass_flowing_sand:
+
+- [ ] 17.01: Context API do React
+- [ ] 17.02: React Hooks - useState e useContext
+- [ ] 17.03: React Hooks - useEffect e Hooks customizados
+- [ ] 17.04: Projeto - StarWars Datatable com Context API e Hooks :white_check_mark:
+
+##### _Bloco 18: Projeto App de Receitas :hourglass_flowing_sand:
+
+- [ ] 18.01: Projeto - App de Receitas :hourglass_flowing_sand:
 
 
 
