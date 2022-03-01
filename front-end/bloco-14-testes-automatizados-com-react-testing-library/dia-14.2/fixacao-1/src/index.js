@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Fixacao1 from './Fixacao1';
+import App from './App';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Fixacao1 />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
