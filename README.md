@@ -147,7 +147,7 @@ Neste módulo, você vai aprender as técnicas e ferramentas mais atuais para de
 - [ ] 17.01: Context API do React
 - [ ] 17.02: React Hooks - useState e useContext
 - [ ] 17.03: React Hooks - useEffect e Hooks customizados
-- [ ] 17.04: Projeto - StarWars Datatable com Context API e Hooks :white_check_mark:
+- [ ] 17.04: Projeto - StarWars Datatable com Context API e Hooks :hourglass_flowing_sand:
 
 ##### _Bloco 18: Projeto App de Receitas :hourglass_flowing_sand:
 
