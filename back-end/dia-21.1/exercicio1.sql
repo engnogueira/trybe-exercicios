@@ -1,1 +1,0 @@
-SELECT MAX(MAX_SALARY) FROM hr.jobs;
