@@ -5,6 +5,8 @@ const recipes = [
   {id: 1, name: 'Lasanha', price: 40, waitTime: 30},
   {id: 2, name: 'Bolo de cenoura', price: 20, waitTime: 10},
   {id: 3, name: 'Pizza', price: 50, waitTime: 40},
+  {id: 4, name: 'Macarrão a Bolonhesa', price: 35.0, waitTime: 25 },
+  {id: 5, name: 'Macarrão com molho branco', price: 45.0, waitTime: 25 },
 ];
 
 const drinks = [
@@ -27,6 +29,13 @@ function arraySORT (array, key) {
     return 0;
   });
 }
+
+app.get('/recipes/search', (req, res) => {
+  const { name, maxPrice } = req.query;
+  const filteredRecipes = recipes.filter(recipe => recipe.name.includes(name) && recipe.price <= parseInt(maxPrice, 10));
+  if (!filteredRecipes) return res.status(404).json({ message: 'Recipe not found' });
+  return res.status(200).json(filteredRecipes);
+});
 
 app.get('/recipes', function (req, res){
   return res.json(arraySORT(recipes, 'name'));
