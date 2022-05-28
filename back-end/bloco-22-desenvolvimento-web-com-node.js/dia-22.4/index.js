@@ -36,6 +36,19 @@ app.get('/drinks', function (req, res){
   return res.json(arraySORT(drinks, 'name'));
 })
 
+app.get('/recipes/:id', function (req, res){
+  const { id } = req.params;
+  const recipe = recipes.find(recipe => recipe.id === parseInt(id));
+  if (!recipe) return res.status(404).json({ message: 'Recipe not found' });
+  return res.status(200).json(recipe);
+});
+app.get('/drinks/:id', function (req, res){
+  const { id } = req.params;
+  const drinksList = drinks.find(drink => drink.id === parseInt(id));
+  if (!drinksList) return res.status(404).json({ message: 'Drink not found' });
+  return res.status(200).json(drinksList);
+});
+
 app.listen(3000, () => {
   console.log('Aplicação ouvindo na porta 3000');
 });
