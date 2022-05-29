@@ -1,6 +1,8 @@
 const express = require('express');
 const app = express();
 
+app.use(express.json());
+
 const recipes = [
   {id: 1, name: 'Lasanha', price: 40, waitTime: 30},
   {id: 2, name: 'Bolo de cenoura', price: 20, waitTime: 10},
@@ -30,6 +32,13 @@ function arraySORT (array, key) {
   });
 }
 
+app.get('/validateToken', function (req, res) {
+  const token = req.headers.authorization;
+  if (token.length !== 16) return res.status(401).json({message: 'Invalid Token!'});
+
+  res.status(200).json({message: 'Valid Token!'});
+});
+
 app.get('/recipes/search', (req, res) => {
   const { name, maxPrice } = req.query;
   const filteredRecipes = recipes.filter(recipe => recipe.name.includes(name) && recipe.price <= parseInt(maxPrice, 10));
@@ -41,9 +50,21 @@ app.get('/recipes', function (req, res){
   return res.json(arraySORT(recipes, 'name'));
 });
 
+app.post('/recipes', (req, res) => {
+  const { id, name, price, waitTime } = req.body;
+  recipes.push({ id, name, price, waitTime });
+  res.status(201).json({ message: 'Recipe created sucessfully'});
+});
+
 app.get('/drinks', function (req, res){
   return res.json(arraySORT(drinks, 'name'));
 })
+
+app.post('/drinks', (req, res) => {
+const { id, name, price } = req.body;
+drinks.push({ id, name, price });
+res.status(201).json({ message: 'Drink created sucessfully'});
+});
 
 app.get('/recipes/:id', function (req, res){
   const { id } = req.params;
